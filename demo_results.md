@@ -1,9 +1,7 @@
 ![alt text](image.png)  
 Icons present: Data-File, Data-Data Table, Unsupervised-Distances,  
   
-Target icon: Unsupervised-Hierarchical Clustering  
 Text Mining-Collocations is ranked #1  
-  
 ------- Unsupervised-Hierarchical Clustering is ranked #2 in the reconstructed row.  
  
 ----------- 
@@ -12,6 +10,7 @@ Text Mining-Collocations is ranked #1
 ![alt text](image-1.png)  
 Icons present: Data-File, Data-Data Table, Data-Data Table, Unsupervised-Distances, Unsupervised-Hierarchical Clustering,  
 Target icon: Visualize-Box Plot  
+
 Text Mining-Collocations is ranked #1  
 Model-Tree is ranked #2  
 ------- Visualize-Box Plot is ranked #3 in the reconstructed row.  
@@ -22,24 +21,26 @@ Model-Tree is ranked #2
 ![alt text](image-2.png)  
 Icons present: Data-File, Data-Data Table, Data-Data Table, Model-Logistic Regression, Evaluate-Test and Score, Evaluate-Confusion Matrix,  
 Target icon: Model-Random Forest  
-  
+
 Text Mining-Collocations is ranked #1  
 Model-Tree is ranked #2  
 Unsupervised-Hierarchical Clustering is ranked #3  
 Visualize-Box Plot is ranked #4  
-Data-Datasets is ranked #5  
+Visualize-Distributions is ranked #5  
 Visualize-Scatter Plot is ranked #6  
-Visualize-Distributions is ranked #7  
-Data-Paint Data is ranked #8  
-Model-Linear Regression is ranked #9  
-Unsupervised-Distances is ranked #10  
-Text Mining-Concordance is ranked #11  
+Unsupervised-k-Means is ranked #7  
+Data-Datasets is ranked #8  
+Text Mining-Concordance is ranked #9  
+Text Mining-Duplicate Detection is ranked #10  
+Model-Linear Regression is ranked #11  
 Evaluate-Predictions is ranked #12  
-Unsupervised-k-Means is ranked #13  
+Data-Paint Data is ranked #13  
 Text Mining-Corpus is ranked #14  
-Visualize-Tree Viewer is ranked #15  
-Transform-Data Sampler is ranked #16  
-------- Model-Random Forest is ranked #17 in the reconstructed row.  
+Survival Analysis-Kaplan-Meier Plot is ranked #15  
+Unsupervised-Distances is ranked #16  
+Visualize-Nomogram is ranked #17  
+Visualize-Tree Viewer is ranked #18  
+------- Model-Random Forest is ranked #19 in the reconstructed row.  
 
 -----------
 
@@ -48,28 +49,25 @@ Icons present: Data-File, Data-Data Table, Data-Data Table, Model-Logistic Regre
 Target icon: Evaluate-Confusion Matrix  
 
 Text Mining-Collocations is ranked #1  
-Unsupervised-Hierarchical Clustering is ranked #2  
-Model-Tree is ranked #3  
+Model-Tree is ranked #2  
+Unsupervised-Hierarchical Clustering is ranked #3  
 Visualize-Box Plot is ranked #4  
-Data-Datasets is ranked #5  
-Visualize-Distributions is ranked #6  
+Visualize-Distributions is ranked #5  
+Unsupervised-k-Means is ranked #6  
 Visualize-Scatter Plot is ranked #7  
-Data-Paint Data is ranked #8  
-Unsupervised-Distances is ranked #9  
+Data-Datasets is ranked #8  
+Text Mining-Concordance is ranked #9  
 Model-Linear Regression is ranked #10  
-Text Mining-Concordance is ranked #11  
+Text Mining-Duplicate Detection is ranked #11  
 Evaluate-Predictions is ranked #12  
-Unsupervised-k-Means is ranked #13  
+Data-Paint Data is ranked #13  
 Text Mining-Corpus is ranked #14  
-Visualize-Tree Viewer is ranked #15  
-Transform-Data Sampler is ranked #16  
-Text Mining-Duplicate Detection is ranked #17  
-Survival Analysis-As Survival Data is ranked #18  
-Bioinformatics-Gene Sets is ranked #19  
-Survival Analysis-Kaplan-Meier Plot is ranked #20  
-Visualize-Nomogram is ranked #21  
-Geo-Choropleth Map is ranked #22  
-------- Evaluate-Confusion Matrix is ranked #23 in the reconstructed row.  
+Visualize-Nomogram is ranked #15  
+Unsupervised-Distances is ranked #16  
+Survival Analysis-Kaplan-Meier Plot is ranked #17  
+Visualize-Tree Viewer is ranked #18  
+Geo-Choropleth Map is ranked #19  
+------- Evaluate-Confusion Matrix is ranked #20 in the reconstructed row.  
 
 -----------
   
@@ -78,15 +76,16 @@ Geo-Choropleth Map is ranked #22
 ![alt text](image-4.png)  
 Icons present: Data-File, Evaluate-Test and Score, Evaluate-Confusion Matrix, Model-Logistic Regression,  
 Target icon: Visualize-Scatter Plot  
+
 Text Mining-Collocations is ranked #1  
 Data-Data Table is ranked #2  
-Unsupervised-Hierarchical Clustering is ranked #3  
-Model-Tree is ranked #4  
+Model-Tree is ranked #3  
+Unsupervised-Hierarchical Clustering is ranked #4  
 Visualize-Box Plot is ranked #5  
-Data-Datasets is ranked #6  
-Visualize-Scatter Plot is ranked #7  
-
-------- Visualize-Scatter Plot is ranked #7 in the reconstructed row.
+Visualize-Distributions is ranked #6  
+Unsupervised-k-Means is ranked #7  
+Visualize-Scatter Plot is ranked #8  
+------- Visualize-Scatter Plot is ranked #8 in the reconstructed row.  
 
 -----------
   
@@ -99,28 +98,23 @@ Data-Data Table is ranked #2
 Unsupervised-Hierarchical Clustering is ranked #3  
 Model-Tree is ranked #4  
 Visualize-Box Plot is ranked #5  
-Data-Datasets is ranked #6  
-Visualize-Distributions is ranked #7  
-Visualize-Scatter Plot is ranked #8  
-Data-Paint Data is ranked #9  
-Unsupervised-Distances is ranked #10  
-Model-Linear Regression is ranked #11  
-Text Mining-Concordance is ranked #12  
+Visualize-Distributions is ranked #6  
+Visualize-Scatter Plot is ranked #7  
+Unsupervised-k-Means is ranked #8  
+Data-Datasets is ranked #9  
+Text Mining-Duplicate Detection is ranked #10  
+Text Mining-Concordance is ranked #11  
+Model-Linear Regression is ranked #12  
 Evaluate-Predictions is ranked #13  
-Unsupervised-k-Means is ranked #14  
+Data-Paint Data is ranked #14  
 Text Mining-Corpus is ranked #15  
-Visualize-Tree Viewer is ranked #16  
-Model-Random Forest is ranked #17  
-Text Mining-Duplicate Detection is ranked #18  
-Survival Analysis-As Survival Data is ranked #19  
-Transform-Data Sampler is ranked #20  
-Bioinformatics-Gene Sets is ranked #21  
-Survival Analysis-Kaplan-Meier Plot is ranked #22  
-Visualize-Nomogram is ranked #23  
-Geo-Choropleth Map is ranked #24  
-Text Mining-Preprocess Text is ranked #25  
-Unsupervised-PCA is ranked #26  
-------- Evaluate-Confusion Matrix is ranked #27 in the reconstructed row.  
+Unsupervised-Distances is ranked #16  
+Survival Analysis-Kaplan-Meier Plot is ranked #17  
+Visualize-Nomogram is ranked #18  
+Visualize-Tree Viewer is ranked #19  
+Model-Random Forest is ranked #20  
+Geo-Choropleth Map is ranked #21  
+------- Evaluate-Confusion Matrix is ranked #22 in the reconstructed row.  
 
 ----------- 
   
@@ -129,8 +123,8 @@ Icons present: Data-Datasets, Survival Analysis-Kaplan-Meier Plot, Data-Data Tab
 Target icon: Visualize-Box Plot  
 
 Text Mining-Collocations is ranked #1  
-Unsupervised-Hierarchical Clustering is ranked #2  
-Model-Tree is ranked #3  
+Model-Tree is ranked #2  
+Unsupervised-Hierarchical Clustering is ranked #3  
 ------- Visualize-Box Plot is ranked #4 in the reconstructed row.  
 
 -----------
@@ -141,31 +135,21 @@ Target icon: Survival Analysis-Kaplan-Meier Plot
  
 Text Mining-Collocations is ranked #1  
 Data-Data Table is ranked #2  
-Unsupervised-Hierarchical Clustering is ranked #3  
-Model-Tree is ranked #4  
+Model-Tree is ranked #3  
+Unsupervised-Hierarchical Clustering is ranked #4  
 Visualize-Box Plot is ranked #5  
-Model-Logistic Regression is ranked #6  
+Unsupervised-k-Means is ranked #6  
 Visualize-Scatter Plot is ranked #7  
 Evaluate-Test and Score is ranked #8  
-Data-Paint Data is ranked #9  
-Unsupervised-Distances is ranked #10  
-Model-Linear Regression is ranked #11  
-Data-File is ranked #12  
-Text Mining-Concordance is ranked #13  
-Evaluate-Predictions is ranked #14  
-Unsupervised-k-Means is ranked #15  
+Text Mining-Duplicate Detection is ranked #9  
+Model-Linear Regression is ranked #10  
+Text Mining-Concordance is ranked #11  
+Model-Logistic Regression is ranked #12  
+Evaluate-Predictions is ranked #13  
+Data-Paint Data is ranked #14  
+Data-File is ranked #15  
 Text Mining-Corpus is ranked #16  
-Model-Random Forest is ranked #17  
-Bioinformatics-Gene Sets is ranked #18  
-Visualize-Tree Viewer is ranked #19  
-Transform-Data Sampler is ranked #20  
-Text Mining-Duplicate Detection is ranked #21  
-Survival Analysis-As Survival Data is ranked #22  
-Visualize-Nomogram is ranked #23  
-Text Mining-Preprocess Text is ranked #24  
-Geo-Choropleth Map is ranked #25  
-Survival Analysis-Kaplan-Meier Plot is ranked #26  
-------- Survival Analysis-Kaplan-Meier Plot is ranked #26 in the reconstructed row.
+------- Survival Analysis-Kaplan-Meier Plot is ranked #17 in the reconstructed row.  
 
 -----------
 
@@ -175,12 +159,14 @@ Target icon: Model-Logistic Regression
 
 Text Mining-Collocations is ranked #1  
 Data-Data Table is ranked #2  
-Unsupervised-Hierarchical Clustering is ranked #3  
-Model-Tree is ranked #4  
+Model-Tree is ranked #3  
+Unsupervised-Hierarchical Clustering is ranked #4  
 Visualize-Box Plot is ranked #5  
-Data-Datasets is ranked #6  
-Visualize-Scatter Plot is ranked #7  
-------- Model-Logistic Regression is ranked #8 in the reconstructed row.
+Visualize-Distributions is ranked #6  
+Unsupervised-k-Means is ranked #7  
+Visualize-Scatter Plot is ranked #8  
+Text Mining-Concordance is ranked #9  
+------- Model-Logistic Regression is ranked #10 in the reconstructed row.  
 
 -----------
 
@@ -190,29 +176,24 @@ Target icon: Visualize-Nomogram
 
 Text Mining-Collocations is ranked #1  
 Data-Data Table is ranked #2  
-Unsupervised-Hierarchical Clustering is ranked #3  
-Model-Tree is ranked #4  
+Model-Tree is ranked #3  
+Unsupervised-Hierarchical Clustering is ranked #4  
 Visualize-Box Plot is ranked #5  
-Data-Datasets is ranked #6  
-Model-Logistic Regression is ranked #7  
-Visualize-Distributions is ranked #8  
-Evaluate-Test and Score is ranked #9  
-Visualize-Scatter Plot is ranked #10  
-Data-Paint Data is ranked #11  
-Data-File is ranked #12  
-Model-Linear Regression is ranked #13  
-Unsupervised-Distances is ranked #14  
-Text Mining-Concordance is ranked #15  
-Evaluate-Predictions is ranked #16  
-Unsupervised-k-Means is ranked #17  
-Visualize-Tree Viewer is ranked #18  
-Transform-Data Sampler is ranked #19  
-Model-Random Forest is ranked #20  
-Survival Analysis-As Survival Data is ranked #21  
-Bioinformatics-Gene Sets is ranked #22  
-Survival Analysis-Kaplan-Meier Plot is ranked #23  
-Text Mining-Duplicate Detection is ranked #24  
-------- Visualize-Nomogram is ranked #25 in the reconstructed row.
+Visualize-Distributions is ranked #6  
+Visualize-Scatter Plot is ranked #7  
+Unsupervised-k-Means is ranked #8  
+Text Mining-Duplicate Detection is ranked #9  
+Evaluate-Test and Score is ranked #10  
+Data-Datasets is ranked #11  
+Model-Linear Regression is ranked #12  
+Evaluate-Predictions is ranked #13  
+Text Mining-Concordance is ranked #14  
+Model-Logistic Regression is ranked #15  
+Data-Paint Data is ranked #16  
+Data-File is ranked #17  
+Survival Analysis-Kaplan-Meier Plot is ranked #18  
+Unsupervised-Distances is ranked #19  
+------- Visualize-Nomogram is ranked #20 in the reconstructed row.  
 
 -----------
 
@@ -222,7 +203,7 @@ Target icon: Model-Tree
 
 Text Mining-Collocations is ranked #1  
 Data-Data Table is ranked #2  
-------- Model-Tree is ranked #3 in the reconstructed row.
+------- Model-Tree is ranked #3 in the reconstructed row.  
 
 -----------
 
@@ -234,8 +215,6 @@ Text Mining-Collocations is ranked #1
 Unsupervised-Hierarchical Clustering is ranked #2  
 Model-Tree is ranked #3  
 Visualize-Box Plot is ranked #4  
-Model-Logistic Regression is ranked #5  
-Data-Datasets is ranked #6  
-Visualize-Distributions is ranked #7  
-Evaluate-Test and Score is ranked #8  
-------- Visualize-Scatter Plot is ranked #9 in the reconstructed row.
+Visualize-Distributions is ranked #5  
+Unsupervised-k-Means is ranked #6  
+------- Visualize-Scatter Plot is ranked #7 in the reconstructed row.  
