@@ -1,0 +1,13 @@
+,Visualize-Scatter Plot,Data-Datasets,Transform-Data Sampler,Data-Data Table,Data-Paint Data,Transform-Select Columns,Visualize-Distributions,Visualize-Box Plot,Data-File,Model-Random Forest,Text Mining-Duplicate Detection,Visualize-Tree Viewer,Image Analytics-Image Viewer,Model-Tree,Model-Logistic Regression,Evaluate-Predictions,Text Mining-Concordance,Evaluate-Confusion Matrix,Evaluate-Test and Score,Text Mining-Collocations,Visualize-Nomogram,Geo-Geo Map,Unsupervised-Hierarchical Clustering,Unsupervised-Distances,Unsupervised-Distance Matrix,Geo-Choropleth Map,Transform-Apply Domain,Text Mining-Corpus,Unsupervised-MDS,Unsupervised-t-SNE,Unsupervised-PCA,Unsupervised-k-Means,Networks-Network From Distances,Model-Linear Regression,Transform-Preprocess,Survival Analysis-Kaplan-Meier Plot,Survival Analysis-As Survival Data,Survival Analysis-Rank Survival Features,Data-Data Info,Bioinformatics-Gene Sets,Bioinformatics-Genes,Transform-Formula,Data-Rank,Text Mining-Bag of Words,Text Mining-Preprocess Text
+remove_hierarchical_cluster,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+remove_box_plot,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+remove_forest,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+remove_confusion,0,0,0,2,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+remove_scatter,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+remove_confusion_2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+remove_box,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+remove_kaplan_meier,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+remove-logistic-regression,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+remove-nomogram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+remove-tree,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+remove-scatter,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

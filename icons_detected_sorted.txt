@@ -1,0 +1,101 @@
+	TotalDetections
+Data-Datasets	241
+Data-Data Table	138
+Model-Logistic Regression	76
+Model-Tree	57
+Visualize-Scatter Plot	45
+Unsupervised-Hierarchical Clustering	44
+Evaluate-Test and Score	40
+Text Mining-Collocations	36
+Data-File	35
+Data-Paint Data	32
+Unsupervised-Distances	31
+Visualize-Distributions	28
+Visualize-Box Plot	28
+Evaluate-Predictions	24
+Visualize-Tree Viewer	24
+Text Mining-Concordance	23
+Unsupervised-k-Means	20
+Model-Linear Regression	20
+Transform-Data Sampler	20
+Geo-Choropleth Map	19
+Model-Random Forest	18
+Text Mining-Corpus	18
+Bioinformatics-Gene Sets	16
+Evaluate-Confusion Matrix	16
+Survival Analysis-As Survival Data	15
+Unsupervised-PCA	15
+Text Mining-Preprocess Text	14
+Text Mining-Duplicate Detection	14
+Survival Analysis-Kaplan-Meier Plot	13
+Unsupervised-Distance Matrix	12
+Visualize-Nomogram	12
+Data-Data Info	12
+Text Mining-Bag of Words	11
+Transform-Preprocess	11
+Bioinformatics-Genes	11
+Unsupervised-t-SNE	11
+Transform-Select Columns	11
+Geo-Geo Map	9
+Networks-Network From Distances	9
+Transform-Formula	9
+Unsupervised-MDS	8
+Transform-Apply Domain	8
+Survival Analysis-Rank Survival Features	7
+Data-Rank	7
+Image Analytics-Image Viewer	6
+Transform-Merge Data	5
+Transform-Discretize	5
+Educational-Polynomial Regression	5
+Single Cell-Single Cell Datasets	5
+Text Mining-LDAvis	5
+Visualize-Silhouette Plot	5
+Text Mining-Word List	5
+Bioinformatics-Single sample scoring	4
+Unsupervised-Correlations	4
+Transform-Create Class	4
+Visualize-Sieve Diagram	3
+Text Mining-Word Cloud	3
+Text Mining-Corpus Viewer	3
+Unsupervised-Distance File	3
+Transform-Select Rows	3
+Visualize-Mosaic Display	2
+Educational-Interactive k-Means	2
+Geo-Geocoding	2
+Image Analytics-Import Images	2
+Evaluate-Calibration Plot	2
+Time Series-Yahoo Finance	2
+Bioinformatics-Databases Update	2
+Transform-Continuize	2
+Model-Naive Bayes	2
+Educational-EnKlik Anketa	2
+Transform-Purge Domain	2
+Image Analytics-Image Grid	2
+Data-Edit Domain	2
+Image Analytics-Image Embedding	2
+Model-Gradient Boosting	2
+Transform-Pivot Table	2
+Data-Feature Statistics	2
+Text Mining-Semantic Viewer	1
+Text Mining-Word Enrichment	1
+Text Mining-Sentiment Analysis	1
+Model-Constant	1
+Networks-Network Analysis	1
+Text Mining-Annotated Corpus Map	1
+Text Mining-Create Corpus	1
+Unsupervised-Neighbors	1
+Visualize-Heat Map	1
+Transform-Impute	1
+Visualize-Pythagorean Forest	1
+Text Mining-Import Documents	1
+Model-SVM	1
+Visualize-Pythagorean Tree	1
+Model-kNN	1
+Evaluate-ROC Analysis	1
+Data-CSV File Import	1
+Image Analytics-Save Images	1
+Time Series-Form Timeseries	1
+Unsupervised-Distance Map	1
+Educational-Random Data	1
+Geo-Geo Transform	1
+Text Mining-Topic Modelling	1
